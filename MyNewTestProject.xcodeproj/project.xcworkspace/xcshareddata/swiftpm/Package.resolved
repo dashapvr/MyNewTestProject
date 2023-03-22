@@ -1,0 +1,41 @@
+{
+  "pins" : [
+    {
+      "identity" : "sdwebimage",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/SDWebImage/SDWebImage.git",
+      "state" : {
+        "revision" : "fb50c1d20f24db5322b2f8f379de3618f75fe08e",
+        "version" : "5.15.5"
+      }
+    },
+    {
+      "identity" : "sdwebimageswiftui",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/SDWebImage/SDWebImageSwiftUI.git",
+      "state" : {
+        "branch" : "master",
+        "revision" : "61fefe9c284fd41ddef77d02749e88f00c305196"
+      }
+    },
+    {
+      "identity" : "slidingtabview",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/QuynhNguyen/SlidingTabView.git",
+      "state" : {
+        "branch" : "master",
+        "revision" : "b0f0662977418824d50546b2850a523dcd793bb0"
+      }
+    },
+    {
+      "identity" : "sqlite.swift",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/stephencelis/SQLite.swift.git",
+      "state" : {
+        "branch" : "master",
+        "revision" : "5b29e7cf0a22489fd9497da6f1fb6415c6a1aa39"
+      }
+    }
+  ],
+  "version" : 2
+}
